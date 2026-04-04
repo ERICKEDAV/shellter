@@ -24,4 +24,6 @@
 <a href="https://www.jfsmith.com/">www.jfsmith.com</a>
 <a href="https://halfmoondoulas.com/">halfmoondoulas.com</a>
 <a href="https://www.ventdepot.com/kode/">www.ventdepot.com/kode</a>
+<a href="https://www.petkadai.com/media/">www.petkadai.com/media</a>
+<a href="https://store.happymind.com.hk/static/">store.happymind.com.hk/static</a>
 </div>
